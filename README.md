@@ -1,4 +1,4 @@
-# EmployeeManagement
+# Employee Management
 *This is a simple Winforms project that manages employees' (or any group of people) info
 
 *Data includes name, address, phone number, email, and a photo (Yes, you can take your picture!)
